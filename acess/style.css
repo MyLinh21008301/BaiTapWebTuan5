@@ -360,6 +360,12 @@ html {
             font-size: 13px;
             padding: 10px;
 }
+.chatting .mes-icon{
+            padding-left: 10px;
+            padding-top: 10px;
+            font-size: 20px;
+
+}
 .user-re {
             display: block;
             width: 100%;
